@@ -1,6 +1,6 @@
 {
   "name": "beuselucas",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "main": "src/index.jsx",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
