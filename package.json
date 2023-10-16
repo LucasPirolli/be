@@ -1,6 +1,6 @@
 {
   "name": "beuselucas",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "main": "src/main.js",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
